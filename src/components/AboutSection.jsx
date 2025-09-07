@@ -12,15 +12,13 @@ export const AboutSection = () => {
                     <div className="space-y-6">
                         <h3 className="text-2xl font-semibold"> Passionate Developer & Tech Creator</h3>
                         <p className = "text-muted-foreground">
-                            Insert About Me Text. Insert About Me Text.
-                            Insert About Me Text. Insert About Me Text.
-                            Insert About Me Text.
+                        I am an Information Technology student at the University of Central Florida with hands-on experience in software development, database engineering, and AI management. 
+                        My focus is on building efficient, user-oriented solutions while continuously exploring new technologies across programming, networking, and cybersecurity. 
+                        Like navigating the stars, I approach each project as a new frontier—seeking clarity, precision, and innovation.
                         </p>
 
                         <p className = "text-muted-foreground">
-                            Insert About Me Text. Insert About Me Text.
-                            Insert About Me Text. Insert About Me Text.
-                            Insert About Me Text.
+                        Beyond academics, I am an avid musician, guitar enthusiast, and a passionate gamer, always looking for new challenges and opportunities to grow.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
