@@ -16,16 +16,16 @@ const projects = [
         title: "BitClicker",
         description: "Programmed with a team to create a clicker web-based video game using HTML, JavaScript, and CSS",
         image: "/projects/BitClicker.png",
-        tags: ["HTML/CSS", "JavaScript", " GenAI"],
+        tags: ["HTML", "JavaScript", "CSS"],
         demoUrl: "https://www.youtube.com/watch?v=jpeiI1Er5D0",
         githubUrl: "#"
     },
     {
         id: 3,
         title: "Web-Portfolio",
-        description: "This high-end website you are currently on! Created using React, Node.js, and Tailwind CSS",
+        description: "This high-end website you are currently on! Created using React, Tailwind CSS, and Node.js",
         image: "/projects/Portfolio.png",
-        tags: ["React", "Node.js", "Tailwind CSS"],
+        tags: ["React", "Tailwind CSS", "Node.js"],
         demoUrl: "#hero",
         githubUrl: "https://github.com/dladdu/Devan-Laddu-Portfolio"
     },

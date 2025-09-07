@@ -4,12 +4,12 @@ import { ArrowUp } from "lucide-react";
 export const Footer = () => {
     return (
         <footer className="py-12 px-4 bg-card relative border-t border-border mt-12 pt-8">
-            <div className="container mx-auto max-w-5xl text-center">
-                <p className="text-sm text-muted-foreground mb-4">
+            <div className="flex flex-col items-center justify-center max-w-5xl mx-auto">
+                <p className="text-sm text-muted-foreground mb-4 text-center">
                     &copy; {new Date().getFullYear()} devan-laddu-portfolio.vercel.app. All rights reserved.
                 </p>
 
-                <a href="#hero" className="inline-flex p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+                <a href="#hero" className="flex items-center justify-center p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
                     <ArrowUp size={20}/>
                 </a>
             </div>

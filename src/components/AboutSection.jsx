@@ -13,7 +13,7 @@ export const AboutSection = () => {
                         <h3 className="text-2xl font-semibold"> Passionate Developer & Tech Creator</h3>
                         <p className = "text-muted-foreground">
                         I am an Information Technology student at the University of Central Florida with hands-on experience in software development, database engineering, and AI management. 
-                        My focus is on building efficient, user-oriented solutions while continuously sharpening my skills in software engineering.
+                        My focus is on building innovative, practical applications while continuously sharpening my skills in software engineering.
                         Like navigating the stars, I approach each project as a new frontier—seeking clarity, precision, and innovation.
                         </p>
 
