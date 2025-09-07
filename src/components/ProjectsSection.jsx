@@ -27,7 +27,7 @@ const projects = [
         image: "/projects/Portfolio.png",
         tags: ["React", "Node.js", "Tailwind CSS"],
         demoUrl: "#hero",
-        githubUrl: "#"
+        githubUrl: "https://github.com/dladdu/Devan-Laddu-Portfolio"
     },
 ]
 
