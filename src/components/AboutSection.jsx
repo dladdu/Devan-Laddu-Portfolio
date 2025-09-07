@@ -42,7 +42,7 @@ export const AboutSection = () => {
                                     <h4 className="font-semibold text-lg"> Backend Development</h4>
                                     <p className="text-muted-foreground">
                                         Creating efficient, user-oriented solutions with
-                                        modern frameworks and languages.
+                                        adept problem solving and modern languages.
                                     </p>
                                 </div>
                             </div>
