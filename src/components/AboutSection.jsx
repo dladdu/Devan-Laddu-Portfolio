@@ -39,10 +39,10 @@ export const AboutSection = () => {
                                     <Code className="h-6 w-6 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Web Development</h4>
+                                    <h4 className="font-semibold text-lg"> Backend Development</h4>
                                     <p className="text-muted-foreground">
-                                        Creating responsive websites and web applications with
-                                        modern frameworks.
+                                        Creating efficient, user-oriented solutions with
+                                        modern frameworks and languages.
                                     </p>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@ export const AboutSection = () => {
                                     <User className="h-6 w-6 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> UI/UX Design</h4>
+                                    <h4 className="font-semibold text-lg"> Frontend Development</h4>
                                     <p className="text-muted-foreground">
                                         Creating responsive websites and web applications with
                                         modern frameworks.
@@ -69,8 +69,8 @@ export const AboutSection = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg"> Project Management</h4>
                                     <p className="text-muted-foreground">
-                                        Creating responsive websites and web applications with
-                                        modern frameworks.
+                                        Managing projects and teams to develop thoughtfully crafted applications, games, 
+                                        and websites with a focus on user experience and functionality.
                                     </p>
                                 </div>
                             </div>
