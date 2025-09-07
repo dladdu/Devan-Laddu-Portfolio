@@ -24,7 +24,7 @@ const projects = [
         id: 3,
         title: "Web-Portfolio",
         description: "This high-end website you are currently on! Created using React, Node.js, and Tailwind CSS",
-        image: "#",
+        image: "/projects/Portfolio.png",
         tags: ["React", "Node.js", "Tailwind CSS"],
         demoUrl: "#hero",
         githubUrl: "#"
