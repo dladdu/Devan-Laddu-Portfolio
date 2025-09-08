@@ -6,7 +6,7 @@ export const Footer = () => {
         <footer className="py-12 px-4 bg-card relative border-t border-border mt-12 pt-8">
             <div className="max-w-5xl mx-auto">
                 <p className="text-sm text-muted-foreground mb-4 text-center">
-                    &copy; {new Date().getFullYear()} devan-laddu-portfolio.vercel.app. All rights reserved.
+                    &copy; {new Date().getFullYear()} devanladdu.com. All rights reserved.
                 </p>
 
                 <a href="#hero" className="absolute top-4 right-4 p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
