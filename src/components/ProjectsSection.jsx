@@ -9,7 +9,7 @@ const projects = [
         image: "/projects/Synth.png",
         tags: ["Java", "Cursor", "ChatGPT"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/dladdu/Synthesizer",
     },
     {
         id: 2,
